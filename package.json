@@ -1,0 +1,14 @@
+{
+  "name": "candidate-service",
+  "version": "1.0.0",
+  "description": "REST API backend for candidate",
+  "author": "Shekhar Gulati",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "uuid": "^3.0.1"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.68.0"
+  }
+}
